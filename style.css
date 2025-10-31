@@ -15,6 +15,8 @@ body{
     min-height: 100vh;
 }
 
+
+
 .caixa-principal{
     background-color: var(--cor-principal);
     width: 90%;
@@ -39,3 +41,12 @@ button:hover{
     background-color: var(--cor-destaque);
     color: var(--cor-principal);
 }
+
+.imagem-pergunta {
+width: 25%; 
+max-width: 800px; 
+margin-top: 20px; 
+border-radius: 30px; 
+justify-content: center;
+align-items: center;
+ }
